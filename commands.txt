@@ -1,0 +1,3 @@
+pwd
+https://google.com
+secret command#label:mylabel
